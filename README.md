@@ -14,7 +14,7 @@ on it.
 
 [![CI](https://github.com/Charanloyal/lakeflow/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Charanloyal/lakeflow/actions/workflows/ci.yml)
 
-**Demo: https://lakeflow-demo.onrender.com/lakeflow/** (mirror: https://charanloyal.github.io/lakeflow/), a
+**Demo: https://lakeflow-demo.onrender.com/lakeflow/** (mirror: https://charan-reddy-dev.github.io/lakeflow/), a
 read-only recording of a real CI end-to-end run ([details](#demo))
 
 ## Demo
